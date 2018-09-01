@@ -1,5 +1,4 @@
 # hello-world
-This is sample repository to learn git and git hub
+Hope this is the final file I have added.
 
-Hi I am SIVARAMAN R.
-I'm currently adding some test content.
+Hope that I've learned git branches
